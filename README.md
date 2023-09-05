@@ -1,1 +1,1 @@
-# FacialEmotion-Recog
+# FacialEmotion-Recog Image Classification using CNN
